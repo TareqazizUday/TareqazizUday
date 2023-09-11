@@ -1,7 +1,10 @@
+[![MasterHead](https://smartindustry.vn/wp-content/uploads/2020/02/what-is-deep-learning-large.jpg)]
 <h1 align="center">Hi 👋, I'm Tareq Aziz Uday</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqazizuday&label=Profile%20views&color=0e75b6&style=flat" alt="tareqazizuday" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data science & Machine learning**
 
@@ -28,8 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareqazizuday&show_icons=true&locale=en&layout=compact" alt="tareqazizuday" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareqazizuday&show_icons=true&locale=en" alt="tareqazizuday" /></p>
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqazizuday&" alt="tareqazizuday" /></p>
