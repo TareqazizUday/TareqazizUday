@@ -1,4 +1,4 @@
-[![MasterHead](https://smartindustry.vn/wp-content/uploads/2020/02/what-is-deep-learning-large.jpg)]
+![MasterHead](https://smartindustry.vn/wp-content/uploads/2020/02/what-is-deep-learning-large.jpg)
 <h1 align="center">Hi 👋, I'm Tareq Aziz Uday</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
