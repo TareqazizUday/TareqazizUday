@@ -25,10 +25,14 @@
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 I enjoy building intelligent systems that solve real-world problems using data and machine learning.
+<br/>
 
 🔹 **Interests:** Artificial Intelligence, Machine Learning, Computer Vision, Data Science
+
 🔹 **Skills:** Python, Machine Learning, Streamlit, Data Analysis
+
 🔹 **Focus:** Building AI-powered tools, automation systems, and smart data solutions
+<br/>
 
 Currently exploring advanced AI systems, LLM applications, and real-world machine learning deployments.
 
@@ -124,7 +128,7 @@ Always curious to learn, build, and innovate. ✨
 </td>
 <td width="55%" valign="middle" align="left">
 
-### 🔬 [PapersGraph](https://papersgraph.com/)
+### 🔬 <a href="https://papersgraph.com/" target="_blank">PapersGraph</a>
 **AI Research Paper Graph Visualization**
 
 - FastAPI + Qdrant vector DB · similarity search across **10M+ papers**
@@ -151,7 +155,7 @@ Always curious to learn, build, and innovate. ✨
 <tr>
 <td width="55%" valign="middle" align="left">
 
-### ♿ [AccessAdvisr](https://accessadvisr.com/)
+### ♿ <a href="https://accessadvisr.com/" target="_blank">AccessAdvisr</a>
 **Accessibility Review & Inclusive Travel Platform**
 
 - Community-driven platform for **disabled travellers worldwide**
@@ -188,7 +192,7 @@ Always curious to learn, build, and innovate. ✨
 </td>
 <td width="55%" valign="middle" align="left">
 
-### 🖼️ [AI Background Remover](https://bgremoverfree.com/)
+### 🖼️ <a href="https://bgremoverfree.com/" target="_blank">AI Background Remover</a>
 **Image Processing Web Application**
 
 - Django web app handling up to **100 images** at once
@@ -215,7 +219,7 @@ Always curious to learn, build, and innovate. ✨
 <tr>
 <td width="55%" valign="middle" align="left">
 
-### 🎬 [YouTube Summary Pro](https://youtubesummarypro.com/)
+### 🎬 <a href="https://youtubesummarypro.com/" target="_blank">YouTube Summary Pro</a>
 **Transcript Generation & AI Summarization**
 
 - Auto transcript generation with **100+ language** support
@@ -252,7 +256,7 @@ Always curious to learn, build, and innovate. ✨
 </td>
 <td width="55%" valign="middle" align="left">
 
-### 🤖 [Aionlinecourse](https://www.aionlinecourse.com/)
+### 🤖 <a href="https://www.aionlinecourse.com/" target="_blank">Aionlinecourse</a>
 **AI Training Platform & Practical Tools**
 
 - Online AI training platform for **industry-relevant skills**
@@ -391,7 +395,7 @@ Always curious to learn, build, and innovate. ✨
 <tr>
 <td width="55%" valign="middle" align="left">
 
-### 🥤 [Cold Drinks Detection & Counting](https://github.com/TareqazizUday/Cold_Drinks_Detection_And_Counting)
+### 🥤 <a href="https://github.com/TareqazizUday/Cold_Drinks_Detection_And_Counting" target="_blank">Cold Drinks Detection & Counting</a>
 **Computer Vision System — YOLOv8 · Django · PyTorch**
 
 - Real-time detection & counting of cold drink bottles
@@ -431,20 +435,18 @@ Always curious to learn, build, and innovate. ✨
 ## 🤝 Connect With Me
 
 <div align="center">
-
 <a href="https://linkedin.com/in/tareq-aziz-uday" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050a0f" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:tareqazizuday20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050a0f" alt="Gmail"/></a>
 &nbsp;
 <a href="https://github.com/TareqazizUday" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-00c8ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050a0f" alt="GitHub"/></a>
-
 </div>
 
 ---
 
 <div align="center">
 
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&width=500&lines=Thanks+for+visiting+my+profile!+✨;Feel+free+to+explore+my+repos!;Let's+build+AI+together!+🤝" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!;Lets+build+AI+together!" alt="Typing SVG"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer"/>
 
